@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.heading-color{
+    color: tomato;
+}
+.top-size{
+    font-size: 50px;
+}
+.upper-header{
+    border-left: 5px solid orange;
+    border-radius: 1px;
+    padding-left: 10px;
+   
+   
+
+}
+.flexible-style{
+    display: flex;
+    
+
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 5%;
+   
+}
+.half-width img{
+    width: 60%;
+    margin-bottom: 100px;
+}
+.link-btn{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+   margin-top: 10px;
+   display: inline-block;
+}
