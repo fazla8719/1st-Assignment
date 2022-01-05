@@ -1,7 +1,8 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
-.heading-color{
+.tomato-color{
     color: tomato;
 }
 .top-size{
@@ -28,8 +29,9 @@ body{
 }
 .half-width img{
     width: 60%;
-    margin-bottom: 100px;
-}
+ 
+}    
+   
 .link-btn{
     text-decoration: none;
     background-color: tomato;
@@ -38,4 +40,44 @@ body{
     color: white;
    margin-top: 10px;
    display: inline-block;
+}    
+.mission-heading{
+    font-size: 40px;
+    /* font-weight: bolder; */
+    text-align: center;
+}
+.container{
+    display: flex;
+    padding-left: 14%;
+   
+   
+    
+
+}
+.mutual-width{
+    width: 25%;
+    margin-right: 5%;
+}
+.mutual-width img{
+    width: 40%;
+}
+.mission{
+    background-color: rgb(218, 214, 214);
+    padding-left: 15px;
+    padding-right: 10px;
+    border-radius: 20px;
+  
+}
+.vission{
+    background-color: rgb(236, 219, 223);
+    padding-left: 15px;
+    padding-right: 10px;
+    border-radius: 20px;
+    
+}
+.goals{
+    background-color: rgb(233, 230, 206);
+    padding-left: 15px;
+    padding-right: 10px;
+    border-radius: 20px;
 }
