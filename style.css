@@ -8,6 +8,7 @@ body{
 .top-size{
     font-size: 50px;
 }
+
 .upper-header{
     border-left: 5px solid orange;
     border-radius: 1px;
@@ -44,8 +45,8 @@ body{
    display: inline-block;
 }    
 .mission-heading{
-    font-size: 40px;
-    /* font-weight: bolder; */
+    font-size: 45px;
+    
     text-align: center;
 }
 .container{
@@ -99,13 +100,30 @@ body{
     
 }
 .community-1{
-    width: 50%;
+    width: 40%;
+    margin-right: 5%;
+    /* padding-right: 10%; */
     padding-left: 10%;
     padding-top: 5%;
+    text-align: justify;
 }
 .community-2{
     width: 40%;
 }
 .community-2 img{
     width: 70%;
+    margin-left: 5%;
+}
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px 0;
+}
+footer small{
+    font-weight: 100;
+}
+footer h3{
+    font-size: 30px;
+    font-family: 'Roboto Slab', serif;
 }
