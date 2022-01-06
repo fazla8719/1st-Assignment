@@ -52,7 +52,7 @@ h3{
 #about-header{
     font-size: 40px;
     border: 5px solid;
-    /* border-image: linear-gradient(to right, red ,purple); */
+    border-image: linear-gradient(to right, red ,purple);
     border-image-slice: 1;
     padding-right: 30px;
     padding-left: 30px;
