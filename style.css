@@ -14,6 +14,7 @@ body{
     padding-left: 10px;
    
    
+   
 
 }
 .flexible-style{
@@ -22,13 +23,13 @@ body{
 
 }
 .half-width{
-    width: 50%;
+    width: 40%;
     padding-left: 10%;
     padding-top: 5%;
    
 }
 .half-width img{
-    width: 60%;
+    width:50%;
  
 }    
    
@@ -49,7 +50,7 @@ body{
 .container{
     display: flex;
     padding-left: 14%;
-   
+   margin-bottom: 100px;
    
     
 
@@ -80,4 +81,19 @@ body{
     padding-left: 15px;
     padding-right: 10px;
     border-radius: 20px;
+}
+.limitless-1{
+    width:40%;
+    margin-left: 150px;
+    
+}
+.limitless-1 img{
+    width: 80%;
+}
+.limitless-2{
+    width: 45%;
+    margin-right: 10%;
+    margin-top: 5%;
+   
+    
 }
