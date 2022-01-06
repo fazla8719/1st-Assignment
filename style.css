@@ -19,6 +19,7 @@ body{
 }
 .flexible-style{
     display: flex;
+    margin-bottom: 100px;
     
 
 }
@@ -96,4 +97,15 @@ body{
     margin-top: 5%;
    
     
+}
+.community-1{
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.community-2{
+    width: 40%;
+}
+.community-2 img{
+    width: 70%;
 }
