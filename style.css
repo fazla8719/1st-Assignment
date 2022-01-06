@@ -47,13 +47,15 @@ h3{
     color: white;
    margin-top: 10px;
    display: inline-block;
+   font-weight: bold;
 }    
 #about-header{
-    /* text-align: center; */
     font-size: 40px;
-    border-bottom: 5px solid;
-    border-image: linear-gradient(to right, red, purple);
+    border: 5px solid;
+    border-image: linear-gradient(to right, red ,purple);
     border-image-slice: 1;
+    padding-right: 30px;
+    padding-left: 30px;
     width: 14%;
     margin: 0 auto;
     margin-bottom: 50px;
@@ -63,32 +65,29 @@ h3{
     padding-left: 10%;
 }
 #about-info-container{
-    padding-top: 8%;
+    padding-top: 6%;
     padding-right: 10%;
 }
 .about-half-width{
     width: 50%;
-   
-   
-    
 }
 .about-half-width img{
     width: 90%;
     margin-right: 5%;
-    
 }
 .mission-heading{
     font-size: 45px;
-    
+    width: 32%;
+    margin: 0 auto;
+    margin-bottom: 80px;
+    border-bottom:  7px dotted red;
+    border-top:  7px dotted red;
     text-align: center;
 }
 .container{
     display: flex;
     padding-left: 11%;
    margin-bottom: 100px;
-   
-    
-
 }
 .mutual-width{
     width: 25%;
@@ -102,14 +101,12 @@ h3{
     padding-left: 15px;
     padding-right: 10px;
     border-radius: 20px;
-  
 }
 .vission{
     background-color: rgb(236, 219, 223);
     padding-left: 15px;
     padding-right: 10px;
     border-radius: 20px;
-    
 }
 .goals{
     background-color: rgb(233, 230, 206);
@@ -120,7 +117,6 @@ h3{
 .limitless-1{
     width:40%;
     margin-left: 150px;
-    
 }
 .limitless-1 img{
     width: 80%;
@@ -129,14 +125,10 @@ h3{
     width: 45%;
     margin-right: 10%;
     margin-top: 5%;
-    
-   
-    
 }
 .community-1{
     width: 40%;
     margin-right: 5%;
-    /* padding-right: 10%; */
     padding-left: 10%;
     padding-top: 5%;
     text-align: justify;
